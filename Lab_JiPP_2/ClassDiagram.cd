@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ColumnBet" Collapsed="true">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAABAAAAAAAAAAAAQAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>ColumnBet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CornerBet" Collapsed="true">
+    <Position X="15" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAFAAAAAAAAgAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CornerBet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DozenBet" Collapsed="true">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAIAAAAAAAAAAAQAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DozenBet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1st18__2nd18" Collapsed="true">
+    <Position X="12.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAIAAAAAAAAAQAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>1st18__2nd18.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EvenOdd" Collapsed="true">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABABABAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EvenOdd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RedBlack" Collapsed="true">
+    <Position X="12.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAQAAAACAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>RedBlack.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Split" Collapsed="true">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAgAACAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Split.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StraightUp" Collapsed="true">
+    <Position X="15" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAACAAAAAAAAAAQAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>StraightUp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StreetBet" Collapsed="true">
+    <Position X="10.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAQAAAQAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>StreetBet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SixLineBet" Collapsed="true">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAABAAAAAAAAAAAAAAAAQBAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SixLineBet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraWRuletke">
+    <Position X="6" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAAAAAAAQACAAoAAAAAAAAAAAAAAgAAAggAQAA=</HashCode>
+      <FileName>GraWRuletke.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RandPro">
+    <Position X="15" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAQAAIAAAAAABAAAAABAAAAAIAAIAAAAAA=</HashCode>
+      <FileName>RandPro.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rodzajzakladu" Collapsed="true">
+    <Position X="10.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAgAAAAAAAAAAAASAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>RodzajZakladu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ruletka">
+    <Position X="10.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAEAAAAAAAAAAAAAAREAAAAAAA=</HashCode>
+      <FileName>Ruletka.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WynikRuletki">
+    <Position X="12.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAACAAAAAAAAAAAAAQAAEAMAAgAAAAAAAAAA=</HashCode>
+      <FileName>WynikRuletki.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zaklad">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgBBAAAAAAAEAACAAAAAAAAAAAAAAAAIAAMAAAAAAA=</HashCode>
+      <FileName>Zaklad.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Czworki" Collapsed="true">
+    <Position X="12.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAQAAACAAAAACAAAIASAAAAAIBAABAAAQgAAAOA=</HashCode>
+      <FileName>CornerBet.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Kierunek" Collapsed="true">
+    <Position X="10.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAIAAAAAAAAAAAEQAAAAAAAAAA=</HashCode>
+      <FileName>Split.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Szostki" Collapsed="true">
+    <Position X="15" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAEAABgBAIAAgAAAAAAAAAEAAAAAAQAAEA=</HashCode>
+      <FileName>SixLineBet.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Kolor" Collapsed="true">
+    <Position X="6" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgCAAAAAAAIAIAAAAAAAAAAA=</HashCode>
+      <FileName>Kolor.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Parzystosc" Collapsed="true">
+    <Position X="8.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Parzystosc.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

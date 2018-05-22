@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Zakłady">
+      <UniqueIdentifier>{2e6f4a96-84cd-4cd7-8211-19dec7c67e2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Logika">
+      <UniqueIdentifier>{8680bcbb-5256-4076-a73c-89843902ad5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Enum">
+      <UniqueIdentifier>{2d64ae43-ddd1-481b-ab83-8cf61aa709dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Zaklady">
+      <UniqueIdentifier>{be025d8f-4235-4215-92be-fef8599c1286}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Logika">
+      <UniqueIdentifier>{261b0e2a-fb50-429c-8192-758746e146e1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RedBlack.cpp">
+      <Filter>Source Files\Zaklady</Filter>
+    </ClCompile>
+    <ClCompile Include="EvenOdd.cpp">
+      <Filter>Source Files\Zaklady</Filter>
+    </ClCompile>
+    <ClCompile Include="GraWRuletke.cpp">
+      <Filter>Source Files\Logika</Filter>
+    </ClCompile>
+    <ClCompile Include="RandPro.cpp">
+      <Filter>Source Files\Logika</Filter>
+    </ClCompile>
+    <ClCompile Include="Ruletka.cpp">
+      <Filter>Source Files\Logika</Filter>
+    </ClCompile>
+    <ClCompile Include="WynikRuletki.cpp">
+      <Filter>Source Files\Logika</Filter>
+    </ClCompile>
+    <ClCompile Include="Zaklad.cpp">
+      <Filter>Source Files\Logika</Filter>
+    </ClCompile>
+    <ClCompile Include="StraigthUp.cpp">
+      <Filter>Source Files\Zaklady</Filter>
+    </ClCompile>
+    <ClCompile Include="DozenBet.cpp">
+      <Filter>Source Files\Zaklady</Filter>
+    </ClCompile>
+    <ClCompile Include="Split.cpp">
+      <Filter>Source Files\Zaklady</Filter>
+    </ClCompile>
+    <ClCompile Include="1st18__2nd18.cpp">
+      <Filter>Source Files\Zaklady</Filter>
+    </ClCompile>
+    <ClCompile Include="StreetBet.cpp">
+      <Filter>Source Files\Zaklady</Filter>
+    </ClCompile>
+    <ClCompile Include="CornerBet.cpp">
+      <Filter>Source Files\Zaklady</Filter>
+    </ClCompile>
+    <ClCompile Include="ColumnBet.cpp">
+      <Filter>Source Files\Zaklady</Filter>
+    </ClCompile>
+    <ClCompile Include="SixLineBet.cpp">
+      <Filter>Source Files\Zaklady</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EvenOdd.h">
+      <Filter>Header Files\Zakłady</Filter>
+    </ClInclude>
+    <ClInclude Include="RedBlack.h">
+      <Filter>Header Files\Zakłady</Filter>
+    </ClInclude>
+    <ClInclude Include="Split.h">
+      <Filter>Header Files\Zakłady</Filter>
+    </ClInclude>
+    <ClInclude Include="GraWRuletke.h">
+      <Filter>Header Files\Logika</Filter>
+    </ClInclude>
+    <ClInclude Include="RandPro.h">
+      <Filter>Header Files\Logika</Filter>
+    </ClInclude>
+    <ClInclude Include="RodzajZakladu.h">
+      <Filter>Header Files\Logika</Filter>
+    </ClInclude>
+    <ClInclude Include="Ruletka.h">
+      <Filter>Header Files\Logika</Filter>
+    </ClInclude>
+    <ClInclude Include="WynikRuletki.h">
+      <Filter>Header Files\Logika</Filter>
+    </ClInclude>
+    <ClInclude Include="Zaklad.h">
+      <Filter>Header Files\Logika</Filter>
+    </ClInclude>
+    <ClInclude Include="Kolor.h">
+      <Filter>Header Files\Enum</Filter>
+    </ClInclude>
+    <ClInclude Include="Parzystosc.h">
+      <Filter>Header Files\Enum</Filter>
+    </ClInclude>
+    <ClInclude Include="StraightUp.h">
+      <Filter>Header Files\Zakłady</Filter>
+    </ClInclude>
+    <ClInclude Include="DozenBet.h">
+      <Filter>Header Files\Zakłady</Filter>
+    </ClInclude>
+    <ClInclude Include="1st18__2nd18.h">
+      <Filter>Header Files\Zakłady</Filter>
+    </ClInclude>
+    <ClInclude Include="StreetBet.h">
+      <Filter>Header Files\Zakłady</Filter>
+    </ClInclude>
+    <ClInclude Include="CornerBet.h">
+      <Filter>Header Files\Zakłady</Filter>
+    </ClInclude>
+    <ClInclude Include="ColumnBet.h">
+      <Filter>Header Files\Zakłady</Filter>
+    </ClInclude>
+    <ClInclude Include="SixLineBet.h">
+      <Filter>Header Files\Zakłady</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>
